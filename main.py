@@ -12,3 +12,4 @@ mm = 3    # month
 # display the calendar
 print("Calendario")
 print(calendar.month(yy, mm))
+print('logging  ..')
